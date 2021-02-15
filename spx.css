@@ -1,0 +1,41 @@
+/* div{
+    color: red;
+} */
+.xi{
+    color: crimson;
+}
+.zx{
+    color: blue;
+}
+#k{
+    background: rgb(82, 80, 80);
+    color: yellow;
+    text-decoration: line-through;
+}
+#j{
+    background-color: aqua;
+}
+#n{
+    background-color: yellowgreen;
+}
+h3 + ol{ /*This selector is used when u want to style your odered list that is below the heading.*/
+    border: 10px double red;
+    border-width: 10px;
+}
+li a{
+    color: red; /*This is done when you want to style an anchor tag embeded in a list.*/
+}
+li a[href="www.facebook.com"]{
+    color: seagreen;
+    border:3px dotted blueviolet;
+}
+li{
+    color: red;
+}
+.lang{
+    color: blue;
+}
+#q{
+    color: yellow;
+    border: 2px solid black;
+}
